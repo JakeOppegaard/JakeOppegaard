@@ -1,4 +1,4 @@
-### My Name Is Jake Oppegaard
+### Hello There!
 
 I am currently a junior at the University of Iowa, studying business analytics and information systems with a minor in Spanish.
 
