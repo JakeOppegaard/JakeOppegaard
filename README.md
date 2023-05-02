@@ -4,7 +4,7 @@ My name is Jake Oppegaard and I am currently a junior at the University of Iowa.
 ### Technical Skills
 ![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20&style=for-the-badge)
 ![R Studio badge](https://img.shields.io/static/v1?message=R%20Studio&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=white&label=%20&style=for-the-badge)
-![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=000000&color=000000&logoColor=white&label=%20&style=for-the-badge)
+![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=grey&color=grey&logoColor=white&label=%20&style=for-the-badge)
 ![SQL badge](https://img.shields.io/static/v1?message=SQL&logo=SQL&labelColor=green&color=green&logoColor=black&label=%20&style=for-the-badge)
 
 ### Contact ME
