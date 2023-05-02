@@ -1,7 +1,4 @@
 ## Hello There 👋 
-![University of Iowa badge](https://img.shields.io/static/v1?message=Go%20Hawks!!&labelColor=FFCD00&label=%20&color=FFCD00&style=for-the-badge)
-
-
 My name is Jake Oppegaard and I am currently a junior at the University of Iowa. I am studying business analytics and information systems with a minor in Spanish.
 
 ### Technical Skills
@@ -11,6 +8,7 @@ My name is Jake Oppegaard and I am currently a junior at the University of Iowa.
 
 ### Contact ME
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jake-oppegaard/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joppegaard6)
 
 
 <!--
