@@ -7,7 +7,7 @@ My name is Jake Oppegaard and I am currently a junior at the University of Iowa.
 ![Flask badge](https://img.shields.io/static/v1?message=Flask&logo=Flask&labelColor=grey&color=grey&logoColor=white&label=%20&style=for-the-badge)
 ![SQL badge](https://img.shields.io/static/v1?message=SQL&logo=SQL&labelColor=green&color=green&logoColor=black&label=%20&style=for-the-badge)
 
-### Contact Me
+### Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jake-oppegaard/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joppegaard6)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jakeoppegaard.com)
