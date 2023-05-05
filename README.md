@@ -1,5 +1,5 @@
 # Hello There 👋 
-### My name is Jake Oppegaard and welcome to my GitHub page! I am currently a junior at the University of Iowa studying business analytics and information systems with a minor in spanish.
+### My name is Jake Oppegaard and welcome to my GitHub page! I am currently a junior at The University of Iowa studying business analytics and information systems with a minor in spanish.
 
 ## Technical Skills
 ![Python badge](https://img.shields.io/static/v1?message=python&logo=python&labelColor=5c5c5c&color=3776AB&logoColor=white&label=%20&style=for-the-badge)
